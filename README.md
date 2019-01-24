@@ -1,0 +1,7 @@
+## Commit message  
+```
+Present-tense summary under 50 characters  
+
+* More information about commit (under 72 characters).  
+* More information about commit (under 72 characters).  
+```
